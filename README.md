@@ -17,3 +17,6 @@ Texture
 
 # Path Tracing
 ![](img/Comparison.png)
+
+# Thanks
+This project is based on code skeletons from [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html)
