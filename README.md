@@ -16,5 +16,4 @@ Texture
 ![](img/texture.png)
 
 # Path Tracing
-
-![](img/Comparision.png)
+![](img/Comparison.png)
